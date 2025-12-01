@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "74RU41/R5Mk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADIDAS\\Desktop\\TestTasks-master\\Task2\\Task2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADIDAS\\.nuget\\packages\\bigrational\\1.0.0.7\\bigrational.1.0.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
